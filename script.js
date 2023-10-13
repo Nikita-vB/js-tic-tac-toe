@@ -31,7 +31,6 @@ function drawBoard() {
             console.log(cellValues)
             drawBoard()
         })
-
     }
 }
 
